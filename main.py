@@ -1,4 +1,7 @@
 print("welcome to my quiz!")
 print("what is your name?")
 name = input("Enter your name: ")
+print("-----------------------------------------------------------------------------")
 print("Hello",name + "!")
+print("-----------------------------------------------------------------------------")
+print("questions are movie based good luck")
